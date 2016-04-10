@@ -1,2 +1,6 @@
 # hello-world
-new repo
+hi guys
+
+this is me!
+
+I try something new today!
